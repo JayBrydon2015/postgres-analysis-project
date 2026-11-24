@@ -13,3 +13,13 @@ The dataset can be accessed through the [NZTA Open Data Portal](https://opendata
 The dataset is provided under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence.
 
 The original dataset is not included in this repository. Download it from the source above and place `CAS_Data_public.csv` in the `datasets/` directory before running the import script.
+
+## Requirements
+
+- Anaconda or Miniconda
+- PostgreSQL
+
+Create the Conda environment using:
+
+```bash
+conda env create -f environment.yml

@@ -1,0 +1,13 @@
+name: postgres-analysis-project
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - python=3.14
+  - numpy
+  - spyder
+  - sqlalchemy
+  - pandas
+  - pip
+  - pip:
+      - psycopg[binary]
