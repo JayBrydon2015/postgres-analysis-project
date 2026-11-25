@@ -18,6 +18,7 @@ The original dataset is not included in this repository. Download it from the so
 
 - Anaconda or Miniconda
 - PostgreSQL
+- pgAdmin 4
 
 Create the Conda environment using:
 
