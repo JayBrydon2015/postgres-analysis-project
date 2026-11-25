@@ -1,6 +1,6 @@
 # postgres-analysis-project
 
-Analysis of a dataset using SQL, PostgreSQL, and Python.
+Analysis of a dataset using SQL, PostgreSQL, and Python. *Currently a work in progress.*
 
 # Dataset
 
